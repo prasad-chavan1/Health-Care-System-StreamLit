@@ -177,3 +177,7 @@ elif password == '':
     st.empty()
 else:
     st.sidebar.error('Invalid password')
+
+
+##All reights reserved by Prasad Ashok Chavan @2023
+#Portfolio: https://prasadchavan.me/
