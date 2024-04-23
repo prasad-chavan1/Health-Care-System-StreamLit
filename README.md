@@ -32,3 +32,6 @@ The application uses [__sqlite3__](https://docs.python.org/3/library/sqlite3.htm
 ```cmd
 > streamlit run hims_app.py
 ```
+
+##All reights reserved by Prasad Ashok Chavan @2023
+#Portfolio: https://prasadchavan.me/
